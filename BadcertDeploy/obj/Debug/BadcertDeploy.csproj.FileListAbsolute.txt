@@ -1,0 +1,10 @@
+C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\BadcertDeploy\bin\Debug\BadcertDeploy.exe.config
+C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\BadcertDeploy\bin\Debug\BadcertDeploy.exe
+C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\BadcertDeploy\bin\Debug\BadcertDeploy.pdb
+C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\BadcertDeploy\obj\Debug\BadcertDeploy.BadcertDeployService.resources
+C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\BadcertDeploy\obj\Debug\BadcertDeploy.csproj.GenerateResource.cache
+C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\BadcertDeploy\obj\Debug\BadcertDeploy.csproj.CoreCompileInputs.cache
+C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\BadcertDeploy\obj\Debug\BadcertDeploy.exe
+C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\BadcertDeploy\obj\Debug\BadcertDeploy.pdb
+C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\BadcertDeploy\obj\Debug\BadcertDeploy.ProjectInstaller.resources
+C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\BadcertDeploy\obj\Debug\BadcertDeploy.csprojAssemblyReference.cache
