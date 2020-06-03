@@ -1,0 +1,39 @@
+﻿正在安装程序集“C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe
+   logfile = C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.InstallLog
+正在安装服务 BadcertDeployService...
+正在日志 Application 中创建 EventLog 源 BadcertDeployService...
+正在回滚程序集“C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe
+   logfile = C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.InstallLog
+正在将事件日志还原到源 BadcertDeployService 的前一状态。
+正在安装程序集“C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe
+   logfile = C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.InstallLog
+正在安装服务 BadcertDeployService...
+已成功安装服务 BadcertDeployService。
+正在日志 Application 中创建 EventLog 源 BadcertDeployService...
+正在提交程序集“C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe
+   logfile = C:\Users\yihanwu1024\Documents\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.InstallLog
+正在安装程序集“C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe
+   logfile = C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.InstallLog
+正在安装服务 BadcertDeployService...
+已成功安装服务 BadcertDeployService。
+正在日志 Application 中创建 EventLog 源 BadcertDeployService...
+正在提交程序集“C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.exe
+   logfile = C:\Users\yihanwu1024\Documents\GitHub\BadcertDeploy\BadcertDeploy\bin\Release\BadcertDeploy.InstallLog

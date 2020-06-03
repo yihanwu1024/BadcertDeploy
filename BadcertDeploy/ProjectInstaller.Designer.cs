@@ -36,6 +36,7 @@
             this.serviceProcessInstaller.Account = System.ServiceProcess.ServiceAccount.LocalSystem;
             this.serviceProcessInstaller.Password = null;
             this.serviceProcessInstaller.Username = null;
+            this.serviceProcessInstaller.AfterInstall += new System.Configuration.Install.InstallEventHandler(this.serviceProcessInstaller_AfterInstall);
             // 
             // serviceInstaller
             // 
@@ -43,6 +44,7 @@
             this.serviceInstaller.DisplayName = "Badcert Updater";
             this.serviceInstaller.ServiceName = "BadcertDeployService";
             this.serviceInstaller.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
+            this.serviceInstaller.AfterInstall += new System.Configuration.Install.InstallEventHandler(this.serviceInstaller_AfterInstall);
             // 
             // ProjectInstaller
             // 
